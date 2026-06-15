@@ -1,0 +1,7 @@
+product_id,current_stock,safety_stock,replenishment_days,max_weekly_production_capacity
+P001,700,150,7,900
+P002,950,200,5,1400
+P003,300,100,6,700
+P004,260,80,8,550
+P005,420,120,7,750
+P006,180,60,10,400

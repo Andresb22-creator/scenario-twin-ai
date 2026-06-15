@@ -1,0 +1,6 @@
+customer_id,customer_name,segment,price_sensitivity,monthly_revenue,strategic_value
+C001,Colegio San Marcos,Institutional,Medium,2500,High
+C002,Limpieza Total SAC,B2B Service,High,4100,High
+C003,Market Norte,Distributor,High,3600,Medium
+C004,Hotel Central,Hospitality,Low,1800,Medium
+C005,Condominio Vista Lima,Residential,Medium,1400,Low

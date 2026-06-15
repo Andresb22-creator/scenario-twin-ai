@@ -1,0 +1,5 @@
+supplier_id,supplier_name,category,risk_level,dependency_score
+S001,QuimiAndes Supply,Raw Materials,High,0.78
+S002,Lima Industrial Inputs,Packaging,Medium,0.45
+S003,Pacific Chemicals,Raw Materials,Medium,0.52
+S004,Andean Logistics,Logistics,Low,0.30

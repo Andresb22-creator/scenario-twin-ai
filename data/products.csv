@@ -1,0 +1,7 @@
+product_id,product_name,category,current_price,unit_cost,main_supplier_id,monthly_units_sold
+P001,Disinfectant Lavender 1L,Disinfection,12.50,7.10,S001,820
+P002,Bleach 1L,Disinfection,8.90,4.20,S001,1250
+P003,Glass Cleaner 1L,Cleaning,10.50,5.80,S002,640
+P004,Liquid Detergent 1L,Laundry,14.90,8.30,S003,530
+P005,Pine Cleaner 1L,Cleaning,11.80,6.90,S001,700
+P006,Degreaser 1L,Industrial,16.50,9.80,S003,420

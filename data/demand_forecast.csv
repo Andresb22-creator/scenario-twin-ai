@@ -1,0 +1,7 @@
+product_id,baseline_weekly_demand,expected_demand_spike_pct,priority_segment
+P001,520,40,Institutional
+P002,780,35,B2B Service
+P003,410,50,B2B Service
+P004,340,45,Institutional
+P005,460,40,Distributor
+P006,260,55,Industrial
