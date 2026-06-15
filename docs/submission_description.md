@@ -63,4 +63,4 @@ https://github.com/Andresb22-creator/scenario-twin-ai
 
 ## Demo video
 
-To be added after recording and upload.
+https://vimeo.com/1201302599?share=copy&fl=sv&fe=ci
